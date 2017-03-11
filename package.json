@@ -19,5 +19,6 @@
     "url": "https://github.com/nl-x/how-to-npm/issues"
   },
   "homepage": "https://github.com/nl-x/how-to-npm#readme",
-  "devDependencies": {}
+  "devDependencies": {},
+  "keywords": []
 }
