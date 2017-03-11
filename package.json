@@ -5,10 +5,19 @@
   "scripts": {
     "test": "node test.js"
   },
-  "author": "",
+  "author": "nl-x",
   "license": "ISC",
-  "description": "",
+  "description": "This package is created as part of the Nodeschool.io's how-to-npm program",
   "dependencies": {
     "@linclark/pkg": "^1.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nl-x/how-to-npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nl-x/how-to-npm/issues"
+  },
+  "homepage": "https://github.com/nl-x/how-to-npm#readme",
+  "devDependencies": {}
 }
