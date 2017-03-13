@@ -8,9 +8,7 @@
   "author": "nl-x",
   "license": "ISC",
   "description": "This package is created as part of the Nodeschool.io's how-to-npm program",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  },
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nl-x/how-to-npm.git"
